@@ -1,2 +1,3 @@
 # zikra-dummywork
-new repo is created
+new repo is created.
+created by  : zikra
